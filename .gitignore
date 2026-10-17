@@ -1,0 +1,8 @@
+.venv/
+**/.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+Data Preprocessing/Data Set.zip
+Backend/resume_ann_model.keras

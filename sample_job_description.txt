@@ -1,0 +1,20 @@
+Junior Python Developer
+
+Northstar Digital is looking for a Junior Python Developer to help build and maintain reliable web services and internal tools. You will work with engineers, QA, and product partners to deliver tested features in an Agile environment.
+
+Responsibilities:
+- Develop and maintain Python applications and REST APIs using Flask or Django.
+- Write readable, maintainable code and automated tests with pytest.
+- Work with PostgreSQL or MySQL databases; write and optimize SQL queries.
+- Debug application issues using logs and collaborate on code reviews.
+- Support Docker-based development and CI/CD workflows.
+- Build scripts for data validation, import, and workflow automation.
+- Document technical changes and participate in sprint planning.
+
+Qualifications:
+- 1-3 years of experience with Python development, including internships or relevant projects.
+- Familiarity with Flask, Django, or FastAPI and REST API design.
+- Experience with SQL, relational databases, Git, and unit testing.
+- Knowledge of Docker, Linux, and a CI/CD tool is a plus.
+- Strong communication, problem-solving, and teamwork skills.
+- Bachelor's degree in Computer Science or equivalent practical experience.
